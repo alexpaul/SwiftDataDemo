@@ -1,6 +1,6 @@
 # SwiftDataDemo
 
-WWDC23 introduces a new persistence API called SwiftData. 
+WWDC23 introduces a new persistence Framework called `SwiftData`. 
 
 > Note: All the code in this project and below was generated after selecting "SwiftData" as a Storage option. 
 
