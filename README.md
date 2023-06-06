@@ -21,7 +21,7 @@ WWDC23 introduces a new persistence API called SwiftData.
 ![select-swiftdata](https://github.com/alexpaul/SwiftDataDemo/assets/1819208/ccfe80de-1fac-40c2-bafe-ea13f636c73f)
 * Select to host in "CloudKit"  
 ![host-in-cloudkit](https://github.com/alexpaul/SwiftDataDemo/assets/1819208/39a173bc-c740-4bfe-b3cb-765660e4c39a)
-* After you've created your project the following files will be populated with `SwiftData` boilerplate code.
+* After you've created your project the following files below will be populated with `SwiftData` boilerplate code.
 
 ## `SwiftDataDemoApp`
 
