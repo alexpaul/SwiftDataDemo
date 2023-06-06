@@ -22,6 +22,7 @@ WWDC23 introduces a new persistence API called SwiftData.
 * Select to host in "CloudKit"  
 ![host-in-cloudkit](https://github.com/alexpaul/SwiftDataDemo/assets/1819208/39a173bc-c740-4bfe-b3cb-765660e4c39a)
 * After you've created your project the following files below will be populated with `SwiftData` boilerplate code.
+* Create some "items" from the demo app and relaunch the simulator or device to verity that the items are being persisted. 
 
 ## `SwiftDataDemoApp`
 
