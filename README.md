@@ -2,6 +2,8 @@
 
 WWDC23 introduces a new persistence API called SwiftData. 
 
+> Note: All the code in this project and below was generated after selecting "SwiftData" as a Storage option. 
+
 ## Glossary 
 
 * `.modelContainer(for: Item.self)`: sets the model container in the scene 
